@@ -21,3 +21,4 @@
 ## Future Improvements
 
 ## Project Report
+[Final Project Report](https://github.com/yosep2m430/Music-Recommendation-System/blob/main/Final%20Project%20Report-%20Music%20Recommendation%20System.pdf)
