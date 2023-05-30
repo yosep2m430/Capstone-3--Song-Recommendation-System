@@ -17,16 +17,16 @@ There are two datasets: a dataset for user listening behavior and a dataset for 
 
 ## Exploratory Data Analysis (EDA)
 [Exploratory Data Analysis (EDA).ipynb](https://github.com/yosep2m430/Song-Recommendation-System-Capstone-3-/blob/main/Exploratory%20Data%20Analysis%20(EDA).ipynb)<br>
-In Exploratory Data Analysis (EDA), the relationships between audio features and the relationships between user, tracks, and playlists are explored.
-<img width="943" alt="image" src="https://github.com/yosep2m430/Music-Recommendation-System/assets/102874665/86d1d0a2-3466-4135-85b5-159201ad1348">
+In Exploratory Data Analysis (EDA), the relationships between audio features and the relationships between user, tracks, and playlists are explored.<br>
+<img width="943" alt="image" src="https://github.com/yosep2m430/Music-Recommendation-System/assets/102874665/86d1d0a2-3466-4135-85b5-159201ad1348"> <br>
 Pearson correlation between popularity and other audio features show there wasn't any audio feature that has significant correlation with popularity.<br>
 
-<img width="896" alt="image" src="https://github.com/yosep2m430/Music-Recommendation-System/assets/102874665/619aaa9d-f1ea-4924-82d9-c6831386da40">
+<img width="896" alt="image" src="https://github.com/yosep2m430/Music-Recommendation-System/assets/102874665/619aaa9d-f1ea-4924-82d9-c6831386da40"> <br>
 This lineplot shows how different audio features of popular songs changed between 1921-2020. Songs had acousticness around 0.3-0.4, which showed a linear drop to 0.1-0.2. The acousticness stayed in that range throughout, with slight increase during 2015- 2020 region. Valence experienced overall declinefrom 0.6-0.7 range to 0.4-0.6 range. danceability values stayed constant 2000- 2015. It then started rising from 0.6 range to upward 0.7 range. Energy remains consistent throughout 1920s-1950s, staying around 0.7. While it experienced decline between 2010-2017, it quickly rose back to upward of 0.7. Instrumentalness stayed consistend throughout, hovering around 0.0- 0.1 range. <br>
 
-<img width="912" alt="image" src="https://github.com/yosep2m430/Music-Recommendation-System/assets/102874665/9a78934b-18c8-419e-bfb7-e71834ed69d2">
+<img width="912" alt="image" src="https://github.com/yosep2m430/Music-Recommendation-System/assets/102874665/9a78934b-18c8-419e-bfb7-e71834ed69d2"><br>
 
-<img width="917" alt="image" src="https://github.com/yosep2m430/Music-Recommendation-System/assets/102874665/18529009-752e-48d1-9590-40cd85e37504">
+<img width="917" alt="image" src="https://github.com/yosep2m430/Music-Recommendation-System/assets/102874665/18529009-752e-48d1-9590-40cd85e37504"><br>
 
 
 ## Modeling
