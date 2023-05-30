@@ -5,6 +5,11 @@
 *Spotify is a continuously growing audio streaming platform serving both artists and listeners worldwide. With increasing competition, Spotify has seen a slow decline in its market share. Our goal is to develop a data-driven recommendation system to better cater to users’ tastes.* 
 
 ## Data
+A CSV file for top charting US songs' audio data in 1921- 2020 was sourced from Kaggle:<br>
+https://www.kaggle.com/datasets/ektanegi/spotifydata-19212020<br>
+
+Another CSV file containing user ID, tracks, and playlist data was also obtained from Kaggle:<br>
+https://www.kaggle.com/code/tj00001/building-music-recommendation-system-using-spotify/input?select=spotify_dataset.csv
 
 ## Data Wrangling
 -In  [Data Wrangling.ipynb](https://github.com/yosep2m430/Song-Recommendation-System-Capstone-3-/blob/main/Data%20Wrangling.ipynb), there are two types of datasets: a dataset for audio features and a dataset for user listening behavior. More specifically:
